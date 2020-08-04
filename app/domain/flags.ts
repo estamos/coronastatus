@@ -4,7 +4,6 @@ export type Locale =
   | 'cs-CZ'
   | 'de-DE'
   | 'dk'
-  | 'gr'
   | 'el-GR'
   | 'en'
   | 'en-AU'
@@ -48,7 +47,6 @@ export const localeToFlagMap: LocaleToFlagMap = {
   'cs-CZ': 'cz',
   'de-DE': 'de',
   dk: 'dk',
-  gr: 'gr',
   'el-GR': 'gr',
   en: 'gb',
   'en-AU': 'au',
