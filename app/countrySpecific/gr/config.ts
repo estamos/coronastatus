@@ -18,6 +18,6 @@ export const countrySpecificConfig: Config = {
   SUPPORTED_LOCALES: ['el-GR'],
   THOUSAND_SEPARATOR: ',',
   ZIP_GUIDE: true,
-  ZIP_PATTERN: '[12345]{5}',
+  ZIP_PATTERN: '[A-Z0-9 ]{5,8}',
   ZIP_PLACEHOLDER: '12345'
 };
