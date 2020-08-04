@@ -17,7 +17,7 @@
 </div>
 </h1>
 
-> Report your health status to get a better overview of COVID-19 in your country
+> Αναφέρετε ανώνυμα την κατάσταση της υγείας σας ώστε να δημιουργηθεί μία καλύτερη επισκόπηση της εξάπλωσης του Report COVID-19 στη χώρα
 
 ## What is this?
 
