@@ -12,12 +12,12 @@ export const countrySpecificConfig: Config = {
   MAP_MAX_ZOOM: 13,
   MAP_ZOOM: 5,
   PASSCODE_LENGTH: 4,
-  RATE_LIMIT_COUNT: 20, // Maximum number of submissions per IP
+  RATE_LIMIT_COUNT: 10, // Maximum number of submissions per IP
   RATE_LIMIT_WINDOW: 86400000, // Time window in milliseconds for rate limiting
   REDIRECT_TO_GOVERNMENT: false,
   SUPPORTED_LOCALES: ['el-GR'],
   THOUSAND_SEPARATOR: ',',
   ZIP_GUIDE: true,
-  ZIP_PATTERN: '[A-Z0-9 ]{5,8}',
-  ZIP_PLACEHOLDER: 'A9A 9AA'
+  ZIP_PATTERN: '[12345]{5}',
+  ZIP_PLACEHOLDER: '12345'
 };
