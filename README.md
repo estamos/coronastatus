@@ -11,7 +11,7 @@
 
 <h1 align="center">Coronastatus-GR
   <div align="center">
-  <a href="https://covid19.gov.gr/covid19-live-analytics/">
+  <a href="">
     <img src="https://github.com/estamos/coronastatus-gr/workflows/test/badge.svg" />
   </a>
 </div>
