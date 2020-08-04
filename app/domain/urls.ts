@@ -13,6 +13,7 @@ export type CountryCode =
   | 'en'
   | 'es'
   | 'fr'
+  | 'gr'
   | 'id'
   | 'in'
   | 'it'
@@ -192,6 +193,17 @@ export const countrySpecificUrls: Urls = {
     api: '/api',
     apiDocs: '/api-docs',
     statistics: '/statistiques',
+    limit: '/limit'
+  },
+  gr: {
+    submitReport: '/',
+    profile: '/healthcondition',
+    privacyPolicy: '/privacy-statement',
+    map: '/map',
+    contributors: '/contributors',
+    api: '/api',
+    apiDocs: '/api-docs',
+    statistics: '/statistics',
     limit: '/limit'
   },
   id: {
