@@ -4,6 +4,7 @@ export type Locale =
   | 'cs-CZ'
   | 'de-DE'
   | 'dk'
+  | 'el-GR'
   | 'en'
   | 'en-AU'
   | 'en-CA'
