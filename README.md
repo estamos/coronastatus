@@ -1,7 +1,23 @@
+<p align="center">
+  <a href="https://github.com/estamos/COVID-19-GR-DATA">COVID-19-GR-DATA</a>
+</p>
+
+<div align="center">
+  <a href="https://covid19.gov.gr/covid19-live-analytics/">
+    <img alt="Ημερήσια επίσιμη επισκόπηση COVID-19" src="https://img.shields.io/badge/Ημερήσια επισκόπηση-COVID%2019-blue.svg" />
+  </a>
+</div>
+
+
+<h1 align="center">Coronastatus-GR
+</h1>
+
+
+
 # Coronastatus
-
+<p align="center">
 ![](https://github.com/BustByte/coronastatus/workflows/test/badge.svg)
-
+</p>
 > Report your health status to get a better overview of COVID-19 in your country
 
 ## What is this?
