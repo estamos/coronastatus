@@ -10,14 +10,13 @@
 
 
 <h1 align="center">Coronastatus-GR
+  <div align="center">
+  <a href="https://covid19.gov.gr/covid19-live-analytics/">
+    <img src="https://github.com/estamos/coronastatus-gr/workflows/test/badge.svg" />
+  </a>
+</div>
 </h1>
 
-
-
-# Coronastatus
-<p align="center">
-![](https://github.com/BustByte/coronastatus/workflows/test/badge.svg)
-</p>
 > Report your health status to get a better overview of COVID-19 in your country
 
 ## What is this?
